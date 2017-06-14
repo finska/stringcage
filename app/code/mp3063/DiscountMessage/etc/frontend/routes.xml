@@ -3,8 +3,8 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
     <router id="standard">
-        <route id="helloworld" frontName="helloworld">
-            <module name="Packt_HelloWorld"/>
+        <route id="price" frontName="price">
+            <module name="mp3063_DiscountMessage"/>
         </route>
     </router>
 </config>
