@@ -1,6 +1,6 @@
 <?php
 
-namespace Packt\HelloWorld\Setup;
+namespace mp3063\DiscountMessage\Setup;
 
 use Magento\Framework\Setup\InstallSchemaInterface;
 use Magento\Framework\Setup\ModuleContextInterface;

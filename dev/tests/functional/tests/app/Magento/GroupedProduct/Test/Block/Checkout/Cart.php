@@ -13,7 +13,7 @@ use Magento\Mtf\Fixture\FixtureInterface;
  * Class Cart
  * Shopping cart block
  */
-class Cart extends \Magento\Checkout\Test\Block\Cart
+class Cart extends Magento\Checkout\Test\Block\Cart
 {
     /**
      * Get cart item block

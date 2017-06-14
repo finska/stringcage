@@ -1,6 +1,6 @@
 <?php
 
-namespace Packt\HelloWorld\Setup;
+namespace mp3063\DiscountMessage\Setup;
 
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
@@ -19,6 +19,6 @@ class InstallData implements InstallDataInterface
      */
     public function install(ModuleDataSetupInterface $setup, ModuleContextInterface $context)
     {
-    
+        //install data here
     }
 }
